@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Wally.unity
+- path: Assets/Scenes/Arhan.unity
   isLoaded: 1
   isActive: 1

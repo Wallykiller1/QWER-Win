@@ -64,16 +64,16 @@
     <Compile Include="Assets\Scripts\Wally\GameManager.cs" />
     <Compile Include="Assets\Scripts\Wally\PickupObject.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/School Mega/Jaar 2/Periode 6/Project/WaterProject/QWER-Win/WaterProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/arhan/OneDrive/Documents/Game Artist GLU/Jaar 2/Periode 2/QWER Water Project/QWER-Win/WaterProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/School Mega/Jaar 2/Periode 6/Project/WaterProject/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/arhan/OneDrive/Documents/Game Artist GLU/Jaar 2/Periode 2/QWER Water Project/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/School Mega/Jaar 2/Periode 6/Project/WaterProject/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/arhan/OneDrive/Documents/Game Artist GLU/Jaar 2/Periode 2/QWER Water Project/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/School Mega/Jaar 2/Periode 6/Project/WaterProject/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/arhan/OneDrive/Documents/Game Artist GLU/Jaar 2/Periode 2/QWER Water Project/QWER-Win/WaterProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -272,12 +272,6 @@
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/waldo/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/waldo/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
