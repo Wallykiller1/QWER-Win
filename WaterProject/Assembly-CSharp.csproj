@@ -61,8 +61,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Wally\Advanced.cs" />
+    <Compile Include="Assets\Scripts\Wally\Despawn.cs" />
     <Compile Include="Assets\Scripts\Wally\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Wally\People.cs" />
     <Compile Include="Assets\Scripts\Wally\PickupObject.cs" />
+    <None Include="Assets\Scripts\Wally\Transparent.shader" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/School Mega/Jaar 2/Periode 6/Project/WaterProject/QWER-Win/WaterProject/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
